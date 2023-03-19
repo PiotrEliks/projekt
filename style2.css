@@ -1,0 +1,76 @@
+#NAGLOWEK { 
+    background-color:#D0096C; 
+    min-height:140px;
+}
+.tyt-naglowek {
+    font-size: 40px;
+    line-height: 1.4em;
+    color: #eeeeee; 
+    text-align: center;
+    font-weight: bold;
+}
+.podtyt-naglowek {
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #eeeeee;
+    text-align: center;
+}   
+#MENU { 
+    min-height:140px; 
+    width:20%; 
+    float: left;
+}
+.l1 {
+    list-style-type: none;
+    background-color: #D0096C;
+    text-align: center;
+    width: 220px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin:10px;
+    border: 1px solid black;
+}
+.a1 {
+    text-decoration: none;
+    color: white;
+}
+a {
+    text-decoration:none;
+}
+#TRESC { 
+    background-color:#fff; 
+    min-height: 140px;
+    width:80%; 
+    float: left;
+    margin-right:0;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.strona {
+    margin: 50px;
+    line-height: 1.4em;
+    color: #D0096C;
+}
+#STOPKA { 
+    background-color:#D0096C; 
+    height:140px; 
+    width:100%; 
+    clear: both;
+}
+.tekst-stopka {
+    text-align: center;
+    font-size: 14px;
+    line-height: 2em;
+    color: white;
+}
+.opis {
+    opacity: 0.2;
+    font-size: 14px;
+    padding: 9px;
+}
+body {
+    font-family: Arial;
+}
+h1 ,h2 ,h3, h4 {
+    color: #D0096C;
+}

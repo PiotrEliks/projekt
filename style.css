@@ -1,0 +1,25 @@
+﻿#NAGLOWEK { 
+    background-color:#27B8BD; 
+    min-height:140px;
+}
+#MENU { 
+    background-color:#E75BB0; 
+    min-height:140px; 
+    width:30%; 
+    float:left;
+}
+#TRESC { 
+    background-color:#21A6DC; 
+    min-height:140px; 
+    width:70%; 
+    float: left;
+}
+#STOPKA { 
+    background-color:#1B5472; 
+    height:140px; 
+    width:100%; 
+    clear:both;
+}
+body {
+    color:#fff;
+}

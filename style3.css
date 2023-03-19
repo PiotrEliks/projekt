@@ -1,0 +1,79 @@
+#NAGLOWEK { 
+    background-color:#fff; 
+    min-height:140px;
+    border-bottom:1px solid green
+}
+.tyt-naglowek {
+    font-size: 40px;
+    line-height: 1.4em;
+    color: green; 
+    margin-left: 30px;
+    font-weight: bold;
+}
+.podtyt-naglowek {
+    text-transform: uppercase;
+    font-size: 14px;
+    color: green;
+    margin-left: 30px;
+}   
+#MENU { 
+    min-height:140px; 
+    width:20%; 
+    float: left;
+}
+.l1 {
+    list-style-type: none;
+    background-color: gainsboro;
+    text-align: center;
+    width: 220px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin:10px;
+    border: 1px solid darkgray;
+    border-radius: 40px;
+}
+.a1 {
+    text-decoration: none;
+    color: black;
+}
+a {
+    text-decoration:none;
+}
+#TRESC { 
+    background-color:#fff; 
+    min-height: 140px;
+    width:80%; 
+    float: left;
+    margin-right:0;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.strona {
+    margin: 50px;
+    line-height: 1.4em;
+    color: green;
+}
+#STOPKA { 
+    background-color:#fff; 
+    height:140px; 
+    width:100%; 
+    clear: both;
+    border-top:1px solid green
+}
+.tekst-stopka {
+    text-align: center;
+    font-size: 14px;
+    line-height: 2em;
+    color: black;
+}
+.opis {
+    opacity: 0.2;
+    font-size: 14px;
+    padding: 9px;
+}
+body {
+    font-family: Arial;
+}
+h1 ,h2 ,h3, h4 {
+    color: green;
+}
